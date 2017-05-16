@@ -1,0 +1,507 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lat",
+				"latitude"
+			],
+			[
+				"location",
+				"locations"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"ex",
+				"expires_in"
+			],
+			[
+				"expires",
+				"expires_in"
+			],
+			[
+				"toke",
+				"token_expires"
+			],
+			[
+				"timesta",
+				"timestamp_in_past"
+			],
+			[
+				"expir",
+				"expires_in"
+			],
+			[
+				"sessi",
+				"session_token"
+			],
+			[
+				"sess",
+				"session_token"
+			],
+			[
+				"token",
+				"tokens_exists"
+			],
+			[
+				"YELP_",
+				"YELP_AUTH_ENDPOINT"
+			],
+			[
+				"YELP",
+				"YELP_CLIENT_SECRET"
+			],
+			[
+				"YELP_CLIENT_",
+				"YELP_CLIENT_ID"
+			],
+			[
+				"UserS",
+				"UserSessionManager"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"get",
+				"get_client_city_data"
+			],
+			[
+				"se",
+				"session_new"
+			],
+			[
+				"ip",
+				"ip_address"
+			],
+			[
+				"city",
+				"city_data"
+			],
+			[
+				"De",
+				"DefaultLogoutView"
+			],
+			[
+				"form",
+				"form_valid"
+			],
+			[
+				"Login",
+				"LoginView"
+			],
+			[
+				"User",
+				"UserSession"
+			],
+			[
+				"cit",
+				"city_data"
+			],
+			[
+				"C",
+				"CharField"
+			],
+			[
+				"do",
+				"do_foo"
+			],
+			[
+				"pop",
+				"populations"
+			],
+			[
+				"y",
+				"y_values"
+			],
+			[
+				"x",
+				"x_values"
+			],
+			[
+				"catego",
+				"category"
+			],
+			[
+				"sonne",
+				"sonnet_words"
+			],
+			[
+				"sonn",
+				"sonnet_words"
+			],
+			[
+				"line",
+				"line_words"
+			],
+			[
+				"str",
+				"strip"
+			],
+			[
+				"apo",
+				"apostrophe_index"
+			],
+			[
+				"Serv",
+				"ServiceView"
+			],
+			[
+				"Cons",
+				"ConsultView"
+			],
+			[
+				"B",
+				"Blog"
+			],
+			[
+				"Au",
+				"Author2"
+			],
+			[
+				"Subject",
+				"SubjectCategory"
+			],
+			[
+				"query",
+				"queryset_list"
+			],
+			[
+				"obj",
+				"objects"
+			],
+			[
+				"subject",
+				"subjectnames"
+			],
+			[
+				"sub",
+				"subcat"
+			],
+			[
+				"subje",
+				"subjectnames"
+			],
+			[
+				"SubjectCato",
+				"SubjectCategory"
+			],
+			[
+				"Studen",
+				"StudentProfessional"
+			],
+			[
+				"next",
+				"next_url"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"login",
+				"login_required"
+			],
+			[
+				"embed",
+				"embed_code"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/geogh/settings.py",
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/accounts/views.py",
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/geogh/urls.py",
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/analytics/utils.py",
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/accounts/forms.py",
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/analytics/admin.py",
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/analytics/signals.py",
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/templates/base.html",
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/accounts/templates/registration/login.html",
+		"/Users/kedem/Documents/devdjango/geogh/.gitignore",
+		"/Users/kedem/Documents/devdjango/geogh/backend/src/accounts/templates/registeration/login.html",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/letters_in_usa_constitution.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/usa_life_expectancies.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/ken_world_population.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/simple_plot.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/my_first_plot.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/my_second_plot.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/my_random_plot.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/my_random2_plot.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit4/jeopardy/categoryclues.py",
+		"/Users/kedem/Dropbox/int_python_pro/random1.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/word1.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/doubleletters.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/allvowels.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/palindrome.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/palindrome2.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/palindrome3.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/sonnet.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/extract_words.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit4/video1.mkd",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/sqlite_query.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/ken_clues.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/cluesgames.py",
+		"/Users/kedem/Dropbox/int_python_pro/oipymaster/Unit2/wordplay/ken_category_clues.py",
+		"/Users/kedem/Dropbox/int_python_pro/scrabble1.py",
+		"/Users/kedem/Downloads/pyls.py",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/home.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/services/templates/services/implement.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/services/templates/services/consult.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/services/templates/services/architect.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/navbar.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/dump",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/base.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/body.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/defaults/marketing.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/cloudcaiservices.sublime-workspace",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/services/views.py",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/cloudcaiservices/views.py",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/about.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/services/templates/services/services.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/contact.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/cloudcaiservices/urls.py",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/services/urls.py",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/cloudcaiservices/settings.py",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/defaults/scripts.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/defaults/head.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/default/scripts.html",
+		"/Users/kedem/Dropbox/coding/cloudcaiservices/src/templates/default/head.html",
+		"/Users/kedem/Dropbox/coding/bootstrap_files/Carousel Template for Bootstrap.html",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/mofiamo/utils.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/mofiamo/settings/base.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/mofiamo/settings/local.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/mofiamo/settings/production.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/.gitignore",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/mofiamo/settings/__init__.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/.ebextensions/02_packages.config",
+		"/Users/kedem/Dropbox/coding/mofiamo/.ebextensions/03_python.config",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/mofiamo/settings.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/django-admin",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/django-admin.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/eb",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/jp.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2html.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2html5.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2latex.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2man.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2odt.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2odt_prepstyles.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2pseudoxml.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2s5.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2xetex.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rst2xml.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/rstpep2html.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/tabulate",
+		"/Users/kedem/Dropbox/coding/mofiamo/bin/wsdump.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/catalog/templates/index.html",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/manage.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/mofiamo/urls.py",
+		"/Users/kedem/Dropbox/coding/mofiamo/src/mofiamo/wsgi.py",
+		"/Users/kedem/Documents/djangocode/boameo/src/boameo/wsgi.py",
+		"/Users/kedem/Documents/djangocode/boameo/src/requirements.txt",
+		"/Users/kedem/Documents/djangocode/boameo/src/.gitignore",
+		"/Users/kedem/Documents/djangocode/boameo/src/boameo/settings/production.py",
+		"/Users/kedem/Documents/djangocode/boameo/src/templates/defaults/head.html",
+		"/Users/kedem/Documents/djangocode/boameo/src/boameo/settings/local.py",
+		"/Users/kedem/Documents/djangocode/boameo/src/boameo/settings/base.py",
+		"/Users/kedem/Documents/djangocode/boameo/requirements.txt",
+		"/Users/kedem/Dropbox/coding/instructors/src/tutors/models.py",
+		"/Users/kedem/Dropbox/coding/instructors/src/orders/forms.py",
+		"/Users/kedem/Dropbox/coding/instructors/src/orders/admin.py",
+		"/Users/kedem/Dropbox/coding/instructors/src/tutors/urls.py",
+		"/Users/kedem/Dropbox/coding/instructors/src/instructors/urls.py",
+		"/Users/kedem/Dropbox/coding/instructors/src/orders/views.py",
+		"/Users/kedem/Dropbox/coding/instructors/src/templates/tutors/search_form.html",
+		"/Users/kedem/Dropbox/coding/instructors/src/templates/tutors/courseactivity_list.html",
+		"/Users/kedem/Dropbox/coding/instructors/src/templates/tutors/teachercreate_view.html",
+		"/Users/kedem/Dropbox/coding/instructors/src/orders/models.py",
+		"/Users/kedem/Dropbox/coding/instructors/src/instructors/settings.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/templates/polls/child.html",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/views.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/models.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/templates/polls/base.html",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/templates/polls/home.html",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/__init__.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/urls.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/mysite/urls.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/templates/polls/results.html",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/templates/polls/detail.html",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/templates/polls/index.html",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/templates/polls/dump",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/static/polls/style.css",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/tests.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/templates/admin/base_site.html",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/mysite/settings.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/polls/admin.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/mysite/mysite/urls.py",
+		"/Users/kedem/Documents/Coding/django/mysite/mysite/mysite/polls/views.py",
+		"/Users/kedem/Documents/Coding/django/oldboame/src/be/settings.py"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/kedem/Dropbox/coding/mofiamo"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"whitenoise",
+			"locallibrary",
+			"subject",
+			"video",
+			"coinbase"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"mofiamo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 61.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 177.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

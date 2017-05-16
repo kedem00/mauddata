@@ -1,0 +1,112 @@
+def post_list(request):
+	queryset = Post.objects.all()
+	context = {
+		"object_list": queryset,
+		"title": "General Blog List"
+	}
+
+
+	# if request.user.is_authenticated():
+	# 	context = {
+	# 	"title": "The User list of Blogs"
+	# 	}
+	# else:
+	# 	context = {
+	# 	"title": "General Blog List"
+	# 	}
+
+# def post_list(request):
+# 	return render(request, "index.html", {})
+# 	# return HttpResponse("<h1>Summary list of business site blogs and publications</h1>")
+
+
+def post_create(request):
+	form = PostForm(request.POST or None)
+	if form.is_valid():
+		instance = form.save(commit=False)
+		print form.cleaned_data.get("title")
+		instance.save()
+		return HttpResponseRedirect(instance.get_absolute_url())
+
+	# if request.method == "POST":
+	# 	print "title" + request.POST.get("content")
+	# 	print request.POST.get("title")
+	context = {
+		"form": form,
+	}
+	return render(request, "post_form.html", context)
+
+	{% extends "base.html" %}
+
+{% block content %}
+
+<h1>{{ title }}</h1>
+{% for obj in object_list %}
+
+	/post/id
+	{% url "posts:detail" id=obj.id %}
+	<a href='{{ obj.get_absolute_url }}'>{{ obj.title }}</a><br/>
+	{{ obj.content }}<br/>
+	{{ obj.timestamp }}<br/>
+	{{ obj.updated }}<br/>
+	{{ obj.id }}<br/>
+
+{% endfor %}
+
+{% endblock content %}
+
+
+{% cycle "" "<div class='col-sm-12'><hr/></div></div><div class='row'>" %}
+
+
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<div class='col-sm-6 col-sm-offset-3'>
+<h1>{{ title }}</h1>
+
+
+{% for obj in object_list %}
+<div class="row">
+	  <div class="col-sm-12">
+	    <div class="thumbnail">
+	    	{% if obj.image %}
+	    	<img src='{{ obj.image.url }}' class='img-responsive' />
+	    	{% endif %}
+	      <div class="caption">
+	        <h3><a href='{{ obj.get_absolute_url }}'>{{ obj.title }}</a> <small>{{ obj.timestamp|timesince }} ago</small></h3>
+	        {% if obj.user.get_full_name %}<p>Author: {{ obj.user.get_full_name }}</p>{% endif %}
+	        <p>{{ obj.content|linebreaks|truncatechars:120 }}</p>
+	        <p><a href="{{ obj.get_absolute_url }}" class="btn btn-primary" role="button">View</a></p>
+	      </div>
+	    </div>
+	  </div>
+	  <hr/>
+  </div>
+{% endfor %}
+
+<div class="pagination">
+	<span class="step-links">
+		{% if object_list.has_previous %}
+			<a href="?{{ page_request_var}}={{ object_list.previous_page_number }}">previous</a>
+		{% endif %}
+
+		<span class="current">
+			Page {{ object_list.number }} of {{ object_list.paginator.num_pages }}.
+		</span>
+
+		{% if object_list.has_next %}
+			<a href="?{{ page_request_var}}={{ object_list.next_page_number }}">next</a>
+		{% endif %}
+	</span>
+</div>
+</div>
+
+</div>
+
+{% endblock content %}
+
+
+queryset_list = Post.objects.filter(draft=False).filter(publish__lte=timezone.now()) #all()#.order_by("-timestamp")
